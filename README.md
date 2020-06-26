@@ -1,9 +1,9 @@
 
 # Instructions
 
-tasks.json : compiler build settings
-launch.json : debugger settings
-c_cpp_properties.json : compiler path and IntelliSense settings
+* tasks.json : compiler build settings
+* launch.json : debugger settings
+* c_cpp_properties.json : compiler path and IntelliSense settings
 
 # hackerhank
 
